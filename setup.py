@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'datatxt',
-  packages = ['datatxt'], # this must be the same as the name above
+  name = 'datatxt-py',
+  packages = ['datatxt-py'], # this must be the same as the name above
   version = '0.0.1',
   description = 'Python package for Dandelion\'s dataTXT service',
   author = 'Andrea Mostosi',
